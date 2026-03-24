@@ -37,7 +37,7 @@ To ensure security, the API key is stored in a local header file that is exclude
 2. Clone the repository:
     ```bash
    git clone [https://github.com/Pasa-Code/WeatherApp.git](https://github.com/Pasa-Code/WeatherApp.git)
-    cd PG2_Projekte_GitHub
+    cd WeatherApp
 3. Build with CMake(or simply open projekt in IDE):
     ```bash
     mkdir build && cd build
