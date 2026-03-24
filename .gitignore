@@ -1,0 +1,5 @@
+#ignoriere C++ Build Dateien unc CLion Einstellungen
+cmake-build-*/
+.idea/
+#ignoriere Api key
+api_key.h/
