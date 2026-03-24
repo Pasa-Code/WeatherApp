@@ -2,4 +2,4 @@
 cmake-build-*/
 .idea/
 #ignoriere Api key
-api_key.h/
+api_key.h
